@@ -98,6 +98,13 @@ nav ul li a:hover {
   height: 100%;
   overflow: hidden;
 }
+
+.bg img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
 .content{
   position: absolute;
   top: 50%;
